@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Franco
 
-<!--
-**Franco944796/Franco944796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudiante de la **Licenciatura en Informática**.
+- 🔐 Apasionado por **Ciberseguridad ofensiva**, con foco en **Pentesting Web**.
+- 🌐 Portafolio: [franco944796.github.io](https://franco944796.github.io/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Lenguajes y Herramientas
+
+![Skills](https://skillicons.dev/icons?i=linux,kali,bash,py,java,git,github&perline=10)
+
+---
+
+### 📈 Mis Estadísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Franco944796&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco944796&layout=compact&theme=github_dark&hide_border=true)
