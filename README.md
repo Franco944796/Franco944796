@@ -12,7 +12,7 @@
 
 ---
 
-### 📈 Mis Estadísticas
+### 📈 Estadísticas
 
 ![](https://github.com/Franco944796/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/Franco944796/github-stats/blob/generated/overview.svg#gh-light-mode-only)
