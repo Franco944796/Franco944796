@@ -18,3 +18,5 @@
 ![](https://github.com/Franco944796/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/Franco944796/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/Franco944796/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![Stats](https://github-readme-stats.vercel.app/api?username=Franco944796&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco944796&layout=compact&theme=github_dark&hide_border=true)
