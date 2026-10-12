@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Franco
+## 👋 ¡Hola nerds! Soy Franco
 
 - 🎓 Estudiante de la **Licenciatura en Informática**.
 - 🔐 Apasionado por **Ciberseguridad ofensiva**, con foco en **Pentesting Web**.
