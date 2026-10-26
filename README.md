@@ -6,7 +6,7 @@
 
 ### 侍 Sobre mí
 
-Estudiante de la **Licenciatura en Informática** con interés en la **Ciberseguridad ofensiva**. Actualmente me estoy formando en **Pentesting Web**, aprendiendo con disciplina y método a identificar vulnerabilidades y documentarlas de forma clara.
+Estudiante de la **Licenciatura en Informática** con interés en la **Ciberseguridad ofensiva**. Adicionalmente a la facultad me estoy formando en **Pentesting Web**, aprendiendo con disciplina y método a identificar vulnerabilidades y documentarlas de forma clara.
 
 - 📚 **Aprendiendo:** Seguridad en aplicaciones web · Análisis de vulnerabilidades
 - 🌐 **Portafolio:** [franco944796.github.io](https://franco944796.github.io/)
