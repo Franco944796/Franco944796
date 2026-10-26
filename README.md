@@ -13,6 +13,17 @@ Estudiante de la **Licenciatura en Informática** con interés en la **Cibersegu
 
 ---
 
+### Certificaciones
+
+<a href="https://hack4u.io/certificate/4960-0015-8502-7629"><img src="certificados/hack4u-introduccion-linux.png" alt="Hack4u - Introducción a Linux" width="320"/></a>
+
+<!--
+anotacion: para agregar otra certificación, se sube la imagen a la carpeta "certificados" y copiá la línea de arriba cambiando el link, la imagen y el texto alternativo.
+dejar todas las líneas pegadas (sin renglón vacío entre ellas) para que se vean una al lado de la otra.
+-->
+
+---
+
 ### Herramientas y lenguajes
 
 ![Skills](https://skillicons.dev/icons?i=linux,kali,bash,py,java,git,github&perline=10)
