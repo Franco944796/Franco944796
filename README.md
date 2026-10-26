@@ -15,12 +15,21 @@ Estudiante de la **Licenciatura en Informática** con interés en la **Cibersegu
 
 ### Certificaciones
 
-<a href="https://hack4u.io/certificate/4960-0015-8502-7629"><img src="certificados/hack4u-introduccion-linux.png" alt="Hack4u - Introducción a Linux" width="320"/></a>
+<a href="https://hack4u.io/certificate/4960-0015-8502-7629"><img src="certificados/hack4u-introduccion-linux.jpg" alt="Hack4u - Introducción a Linux" width="320"/></a>
 
 <!--
-anotacion: para agregar otra certificación, se sube la imagen a la carpeta "certificados" y copiá la línea de arriba cambiando el link, la imagen y el texto alternativo.
-dejar todas las líneas pegadas (sin renglón vacío entre ellas) para que se vean una al lado de la otra.
+Para agregar otra certificación, subí la imagen a la carpeta "certificados" y copiá la línea de arriba cambiando el link, la imagen y el texto alternativo.
+Dejá todas las líneas pegadas (sin renglón vacío entre ellas) para que se vean una al lado de la otra.
 -->
+
+---
+
+### Eventos
+
+Asistencia a **Ekoparty**, la conferencia de seguridad informática más importante de Latinoamérica.
+
+<img src="eventos/ekoparty-1.png" alt="Certificado de asistencia - Ekoparty" width="320"/>
+<img src="eventos/ekoparty-2.png" alt="Certificado de asistencia - Ekoparty" width="320"/>
 
 ---
 
