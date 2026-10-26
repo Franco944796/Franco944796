@@ -26,7 +26,7 @@ Dejá todas las líneas pegadas (sin renglón vacío entre ellas) para que se ve
 
 ### Eventos
 
-Asistencia a **Ekoparty**, la conferencia de seguridad informática más importante de Latinoamérica.
+**Ekoparty**, la conferencia de seguridad informática más importante de Latinoamérica.
 
 <img src="eventos/ekoparty-2025.png" alt="Certificado de asistencia - Ekoparty 2025" width="320"/>
 
