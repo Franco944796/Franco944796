@@ -28,8 +28,12 @@ Dejá todas las líneas pegadas (sin renglón vacío entre ellas) para que se ve
 
 Asistencia a **Ekoparty**, la conferencia de seguridad informática más importante de Latinoamérica.
 
-<img src="eventos/ekoparty-1.png" alt="Certificado de asistencia - Ekoparty" width="320"/>
-<img src="eventos/ekoparty-2.png" alt="Certificado de asistencia - Ekoparty" width="320"/>
+<img src="eventos/ekoparty-2025.png" alt="Certificado de asistencia - Ekoparty 2025" width="320"/>
+
+<!--
+Para agregar otro evento, subí la imagen a la carpeta "eventos" y copiá la línea de arriba cambiando la imagen y el texto alternativo.
+Dejá las líneas pegadas (sin renglón vacío entre ellas) para que se vean una al lado de la otra.
+-->
 
 ---
 
