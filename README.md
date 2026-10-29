@@ -4,7 +4,7 @@
 
 </div>
 
-### 侍 Sobre mí
+### Sobre mí
 
 Estudiante de la **Licenciatura en Informática** con interés en la **Ciberseguridad ofensiva**. Adicionalmente a la facultad me estoy formando en **Pentesting Web**, aprendiendo con disciplina y método a identificar vulnerabilidades y documentarlas de forma clara.
 
@@ -24,7 +24,7 @@ Dejá todas las líneas pegadas (sin renglón vacío entre ellas) para que se ve
 
 ---
 
-### Herramientas y lenguajes
+### Stack
 
 ![Skills](https://skillicons.dev/icons?i=linux,kali,bash,py,java,git,github&perline=10)
 
@@ -32,7 +32,7 @@ Dejá todas las líneas pegadas (sin renglón vacío entre ellas) para que se ve
 
 ### Eventos
 
-Asistencia a **Ekoparty**, la conferencia de seguridad informática más importante de Latinoamérica.
+**Ekoparty**, la conferencia de seguridad informática más importante de Latinoamérica.
 
 <img src="eventos/ekoparty-2025.png" alt="Certificado de asistencia - Ekoparty 2025" width="320"/>
 
