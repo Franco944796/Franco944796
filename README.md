@@ -15,7 +15,9 @@ Estudiante de la **Licenciatura en Informática** con interés en la **Cibersegu
 
 ### Certificaciones
 
-<a href="https://hack4u.io/certificate/4960-0015-8502-7629"><img src="certificados/hack4u-introduccion-linux.jpg" alt="Hack4u - Introducción a Linux" width="320"/></a> <img src="certificados/seguridad_digital_360.jpg" alt="Geek Girls LatAm - Seguridad Digital 360" width="320"/>
+<a href="https://hack4u.io/certificate/4960-0015-8502-7629"><img src="certificados/hack4u-introduccion-linux.jpg" alt="Hack4u - Introducción a Linux" width="320"/>
+
+</a> <img src="certificados/seguridad_digital_360.jpg" alt="Geek Girls LatAm - Seguridad Digital 360" width="320"/>
 
 <!--
 Para agregar otra certificación, subí la imagen a la carpeta "certificados" y copiá la línea de arriba cambiando el link, la imagen y el texto alternativo.
